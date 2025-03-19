@@ -2,14 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package main; // Asegúrate de que el paquete sea correcto
+package model;
 
-import model.MascotaDAO; // Importa MascotaDAO
-
-public class Main {
+public class main {
     public static void main(String[] args) {
-        MascotaDAO dao = new MascotaDAO();
-        dao.insertarMascota("Firulais", "Perro", 5);
-        dao.listarMascotas();
+        
+        insertarmascota insertar = new insertarmascota();
+        insertar.insertar("Firulais", "Perro", 5);
+
+       
+        consultarmascota consultar = new consultarmascota();
+        consultar.consultar();
     }
 }

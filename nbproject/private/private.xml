@@ -3,9 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/consultarmascota.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/main.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/insertarmascota.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/modificarproducto.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/eliminarmascota.java</file>
             <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/MascotaDAO.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/main.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/insertarpropietario.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/insertarproducto.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/consultarproducto.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/modificarpropietario.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/model/modificarmascota.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/eliminarpropietario.java</file>
             <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/database/Conexion.java</file>
             <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/animalheartapp/AnimalHeartApp.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/propietario.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/eliminarproducto.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/propietario/consultarpropietario.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/main.java</file>
+            <file>file:/D:/Users/USUARIO/Documents/NetBeansProjects/AnimalHeartApp/src/producto/producto.java</file>
         </group>
     </open-files>
 </project-private>
